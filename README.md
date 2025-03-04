@@ -9,6 +9,10 @@ subfinder
 ```
 go install -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest
 ```
+httpx
+```
+go install -v github.com/projectdiscovery/httpx/cmd/httpx@latest
+```
 
 ## Commands
 **Integrating Nuclei with Other Tools**
